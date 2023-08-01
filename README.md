@@ -1,6 +1,6 @@
 The files here are the final versions of the challenges propoused by DNC school. 
 
-Challenge 2: Create a managerial dashboard using PowerBI.
+# Challenge 2: Create a managerial dashboard using PowerBI.
 
 Context:
 
